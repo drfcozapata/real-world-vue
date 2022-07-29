@@ -7,6 +7,7 @@
         "name": "Adam"
       },
       "category": "animal welfare",
+      "organizer": "Kat Laydee",
       "title": "Dog Adoption Day",
       "description": "Find your new canine friend at this event.",
       "location": "Meow Town",
@@ -22,6 +23,7 @@
         "name": "Adam"
       },
       "category": "food",
+      "organizer": "Fern Pollin",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
       "location": "Flora City",
@@ -37,6 +39,7 @@
         "name": "Adam"
       },
       "category": "sustainability",
+      "organizer": "Carey Wales",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
       "location": "Playa del Carmen",
@@ -58,6 +61,7 @@
       "location": "Wof Town",
       "date": "2019-01-03T21:54:00.000Z",
       "time": "2:00",
+      "petsAllowed": true,
       "attendees": []
     },
     {
@@ -73,6 +77,7 @@
       "location": "Doglandia",
       "date": "2019-01-31T22:09:00.000Z",
       "time": "7:00",
+      "petsAllowed": false,
       "attendees": []
     },
     {
@@ -88,6 +93,7 @@
       "location": "Puptown ",
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
+      "petsAllowed": true,
       "attendees": []
     }
   ]
